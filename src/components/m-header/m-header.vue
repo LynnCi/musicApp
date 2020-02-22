@@ -1,5 +1,6 @@
 <template>
 <div class="m-header">
+  <h1>test</h1>
   <h1 class="text">lynn2 Music</h1>
 </div>
 </template>
